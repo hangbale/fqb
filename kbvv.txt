@@ -20,7 +20,7 @@
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
 # Github --> https://hub.fastgit.xyz/lite-cucumber/
 # 套Biubiu+LiteApple+Kuaikan规则
-"spider":"https://s3-us-east-1-accelerate.ossfiles.com/Lingshulian/040dae9e790c2be2217ac47f3956ace2.1654772525.110eb61ed7518aa7a2cddd82d070e183?response-content-disposition=attachment%3B%20filename%3D5_6127357939708593682.jar%3B%20filename%2A%3Dutf-8%27%275_6127357939708593682.jar&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=11fd753fdeea75e703ff6392f4f4e474%2F20220609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220609T110230Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=b9822d9f0cd4dc2ecba317b9100e3b2f196dbdbcf984d859cdf80927a38da7bf",
+"spider":"https://s3-us-east-1-accelerate.ossfiles.com/Lingshulian/040dae9e790c2be2217ac47f3956ace2.1654772525.110eb61ed7518aa7a2cddd82d070e183?response-content-disposition=attachment%3B%20filename%3D5_6127357939708593682.jar%3B%20filename%2A%3Dutf-8%27%275_6127357939708593682.jar&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=11fd753fdeea75e703ff6392f4f4e474%2F20220610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220610T112658Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=8a2251ab399e58bec5d79fd56a566ab5ced2036490efb2db170afb6855d82aed",
 
 
 # 直播
