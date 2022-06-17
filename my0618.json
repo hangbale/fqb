@@ -9,7 +9,6 @@
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oaDZ2di5naXRodWIuaW8vZnFiL2xpdmUudHh0CiA="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
 
 
 "sites":[
