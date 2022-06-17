@@ -6,32 +6,20 @@
 
 "spider":"https://hh6vv.github.io/fqb/xm.jar",
 
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oaDZ2di5naXRodWIuaW8vZnFiL2xpdmUudHh0CiA="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
 
 
 "sites":[
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒首页推荐，厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hh6vv.github.io/fqb/厂长资源-蓝光.json"},
-
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_CZSPP","name":"🚬厂长资源","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"موارد مدير المصنع"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NaNa","name":"👒七七","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"سبعة وسبعة"},
 {"key":"csp_Kunyu77","name":"🐼七七2","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kumao","name":"🐱酷猫","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"قط رائع"},
-//{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"🧼真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"حقا ليس عالقا"},
 {"key":"csp_Auete","name":"🧿Auete","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"أويتي"},
-//{"key":"csp_DiDuan","name":"🌀低端影视","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"السينما والتلفزيون الرديئة"},
-//{"key":"csp_360","name":"🎾360","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"ثلاثة مائة وستون"},
-////{"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
-//{"key":"奈落影院","name":"🐼奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"小宝影院","name":"🐼小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"Libvio","name":"🐼Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
   {
       "key": "csp_Alips",
@@ -88,8 +76,7 @@
 {"key":"XYUI","name":"XYUI(优)","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"超高清影视","name":"超高清影视(聚)","type":1,"api":"http://shdmv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-],
+{"key":"超高清影视","name":"超高清影视(聚)","type":1,"api":"http://shdmv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
