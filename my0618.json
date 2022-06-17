@@ -9,6 +9,7 @@
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oaDZ2di5naXRodWIuaW8vZnFiL2xpdmUudHh0CiA="]}]}],
 
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
 
 
 "sites":[
@@ -88,7 +89,6 @@
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"超高清影视","name":"超高清影视(聚)","type":1,"api":"http://shdmv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 ],
 
 "parses":[
