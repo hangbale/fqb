@@ -43,7 +43,24 @@ TVBS-精彩台,http://iptv12k.com:35461/live/test167/12345/4842.m3u8
 三立台湾,http://iptv12k.com:35461/live/test167/12345/1286.m3u8
 三立新闻,http://iptv12k.com:35461/live/test167/12345/1285.m3u8
 
-中天新闻,http://iptv12k.com:35461/live/test167/12345/1276.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 星卫HD电影,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
 美亚电影,http://iptv12k.com:35461/live/test167/12345/1260.m3u8
 
@@ -144,7 +161,7 @@ RHK32,http://liuy.usa7.20212021.ga/ns.php?id=97
 TVB星河,http://liuy.usa7.20212021.ga/ns.php?id=76
 TVBS,http://liuy.usa7.20212021.ga/ns.php?id=37
 TVBS新闻,http://liuy.usa7.20212021.ga/ns.php?id=38
-中天新闻,http://liuy.usa7.20212021.ga/ns.php?id=42
+
 中视新闻,http://liuy.usa7.20212021.ga/ns.php?id=19
 东森新闻,http://liuy.usa7.20212021.ga/ns.php?id=33
 壹新闻,http://liuy.usa7.20212021.ga/ns.php?id=34
@@ -196,6 +213,12 @@ SPOTVLIVE,http://liuy.usa7.20212021.ga/ns.php?id=16
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 
 🎡台湾,#genre#
+
+中天新闻,http://220.134.196.147:9537/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
+中天新闻,http://iptv12k.com:35461/live/test167/12345/1276.m3u8
+中天新闻,http://liuy.usa7.20212021.ga/ns.php?id=42
+
 三立台灣,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 三立綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/95db1e0a-0eee-423f-a8e4-b05fef9c21c8.m3u8
 ELTA影劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/5bd937d8-a211-4be2-8c5c-a0fb8e62b23f.m3u8
@@ -246,7 +269,7 @@ HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b500
 台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 鳯凰衛視資訊,http://220.134.196.147:9576/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 鳯凰衛視中文,http://220.134.196.147:9577/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
-中天新闻,http://220.134.196.147:9537/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
+
 东森财经,http://220.134.196.147:9508/http/116.50.42.18:8081/hls/63/805/ch11.m3u8
 年代新闻,http://220.134.196.147:9501/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 东森新闻,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
@@ -290,7 +313,7 @@ HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b500
 纬来体育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 
-中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
+
 寰宇新闻,http://60.251.59.180:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
 壹电视新闻,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 三立新闻,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
