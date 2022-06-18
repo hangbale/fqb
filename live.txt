@@ -1,5 +1,5 @@
 
-🐳douyu(ljk播放器),#genre#
+🐳动画(ljk播放器),#genre#
 // http://epg.112114.xyz/douyu/
 // http://zzy789.xyz/douyu1.php?id=
 // http://124.223.212.38:83/douyu/
