@@ -82,7 +82,7 @@
       "filterable": 1,
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
-  {
+    {
       "key": "csp_AppYsV2_美剧范",
       "name": "美剧",
       "type": 3,
@@ -144,7 +144,7 @@
       "filterable": 1,
       "ext": "https://hh6vv.github.io/fqb/mtv"
     },
-{
+    {
       "key": "push_Blixs",
       "name": "相声小品",
       "type": 3,
