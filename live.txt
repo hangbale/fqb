@@ -121,7 +121,11 @@ TVB翡翠台海外版(普通话),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 
 
 🎡台湾,#genre#
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+
+
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 TVBS新闻,http://liuy.usa7.20212021.ga/ns.php?id=38
 中视新闻,http://liuy.usa7.20212021.ga/ns.php?id=19
 东森新闻,http://liuy.usa7.20212021.ga/ns.php?id=33
