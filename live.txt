@@ -122,11 +122,6 @@ TVB翡翠台海外版(普通话),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 
 🎡台湾,#genre#
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新闻,https://ytb.52sf.ga/live.m3u8?c=1
-中天新闻,http://220.134.196.147:9537/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
-中天新闻,http://iptv12k.com:35461/live/test167/12345/1276.m3u8
-中天新闻,http://liuy.usa7.20212021.ga/ns.php?id=42
 TVBS新闻,http://liuy.usa7.20212021.ga/ns.php?id=38
 中视新闻,http://liuy.usa7.20212021.ga/ns.php?id=19
 东森新闻,http://liuy.usa7.20212021.ga/ns.php?id=33
